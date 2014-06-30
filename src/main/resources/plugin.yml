@@ -1,0 +1,8 @@
+name: ${project.name}
+version: ${project.version}
+description: 'Saves crafting table inventories when they''re closed.'
+depend: []
+softdepend: []
+authors: [Stealth2800]
+website: http://stealthyone.com/
+main: com.stealthyone.mcbc.workbenchinventory.WbInventory
